@@ -2,6 +2,7 @@
 
 # Haze Theme for Firefox
 ## Description
+Firefox theme based on the [Haze](https://github.com/liferuin/haze) color palette.
 
 ## Installation
 ### Mozilla Add-ons
