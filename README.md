@@ -1,12 +1,12 @@
 ![Sample](img/sample.png)
 
-# Haze Theme for Firefox
+# Night Shade Theme for Firefox
 ## Description
-Firefox theme based on the [Haze](https://github.com/liferuin/haze) color palette.
+Firefox theme based on the [Night Shade](https://github.com/liferuin/night-shade) color palette.
 
 ## Installation
 ### Mozilla Add-ons
-1. Go to [addons.mozilla.org/addon/haze](https://addons.mozilla.org/addon/haze/)
+1. Go to [addons.mozilla.org/addon/night-shade-firefox](https://addons.mozilla.org/addon/night-shade-firefox/)
 2. Click `Install Theme`.
 
 ### Firefox Color
