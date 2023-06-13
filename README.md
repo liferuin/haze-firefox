@@ -1,4 +1,4 @@
-![Sample](img/sample.png)
+<h3 align="center"><img src="img/titlebar.png"></h3>
 
 # Night Shade
 ## Description
